@@ -24,10 +24,10 @@ Units 2016 : No of Units sold for 2016
 5. In all the High tier, which Division saw a decline in number of units sold in 2016 compared
 to 2015?
 6. Create a new column Qtr -
- Jan - Mar : Q1
- Apr - Jun : Q2
- Jul - Sep : Q3
- Oct - Dec : Q4
+Jan - Mar : Q1
+Apr - Jun : Q2
+Jul - Sep : Q3
+Oct - Dec : Q4
 7. Compare Qtr wise sales in 2015 and 2016 in a bar plot
 8. Determine the composition of Qtr wise sales in and 2015 with regards to all the Tiers in a
 pie chart.
@@ -36,8 +36,8 @@ pie chart.
 
 Tableau and PowerBI are used for data visualization.
 Data visualization can:
- Identify areas that need attention or improvement.
- Clarify which factors influence customer behavior.
- Help you understand which products to place where.
- Predict sales volumes. 
- 
+
+Identify areas that need attention or improvement.
+Clarify which factors influence customer behavior.
+Help you understand which products to place where.
+Predict sales volumes. 
