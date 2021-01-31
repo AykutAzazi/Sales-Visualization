@@ -7,13 +7,13 @@ The objective of this project is to understand sales trends for one of the leadi
 
 The data attached is a two-year sales data of a pharma company which talks about
 sales in 2015 and 2016 across various regions and time frames.
-Account Id : Customer ID
-Account Name : Customer Name
-Tier : Customer Segment 
-Sales 2015 : Sales for the year 2015
-Sales 2016 : Sales for the year 2015
-Units 2015 : No of Units sold for 2015
-Units 2016 : No of Units sold for 2016
+* Account Id : Customer ID
+* Account Name : Customer Name
+* Tier : Customer Segment 
+* Sales 2015 : Sales for the year 2015
+* Sales 2016 : Sales for the year 2015
+* Units 2015 : No of Units sold for 2015
+* Units 2016 : No of Units sold for 2016
 
 ### Questions
 
