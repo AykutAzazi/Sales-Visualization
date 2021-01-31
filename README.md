@@ -1,9 +1,9 @@
 ## Sales-Visualization
-#Aim of the Project
+# Aim of the Project
 
 The objective of this dashboard is to understand sales trends for one of the leading pharmaceutical company.
 
-#About Data
+# About Data
 
 The data attached is a two-year sales data of a pharma company which talks about
 sales in 2015 and 2016 across various regions and time frames.
@@ -15,7 +15,7 @@ Sales 2016 : Sales for the year 2015
 Units 2015 : No of Units sold for 2015
 Units 2016 : No of Units sold for 2016
 
-#Questions
+# Questions
 
 1. Compare Sales by region for 2016 with 2015 using bar chart
 2. Pie charts for sales for each region in 2016
