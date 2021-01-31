@@ -1,7 +1,7 @@
 ## Sales-Visualization
 ### Aim of the Project
 
-The objective of this dashboard is to understand sales trends for one of the leading pharmaceutical company.
+The objective of this project is to understand sales trends for one of the leading pharmaceutical company.
 
 ### About Data
 
@@ -31,4 +31,13 @@ to 2015?
 7. Compare Qtr wise sales in 2015 and 2016 in a bar plot
 8. Determine the composition of Qtr wise sales in and 2015 with regards to all the Tiers in a
 pie chart.
- (Draw 4 pie charts representing a Quarter for each Tier) 
+
+### Data Visualization
+
+Tableau and PowerBI are used for data visualization.
+Data visualization can:
+ Identify areas that need attention or improvement.
+ Clarify which factors influence customer behavior.
+ Help you understand which products to place where.
+ Predict sales volumes. 
+ 
